@@ -192,9 +192,6 @@ I appreciate even the tiniest suggestion or contribution you make to this projec
 
 If you found any bugs while using this extension or you have a suggestion please post it in [issues](https://github.com/REST-API-Client/API-Client-VSCode-Extension/issues).
 
-## 🫧 Contributors
-
-[![Contributors](https://contrib.rocks/image?repo=REST-API-Client/API-Client-VSCode-Extension)](https://github.com/REST-API-Client/API-Client-VSCode-Extension/graphs/contributors)
 
 ## 📋 License
 

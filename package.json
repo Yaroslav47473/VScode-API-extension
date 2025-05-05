@@ -124,6 +124,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
     "react-spinners": "^0.13.3",
+    "rest-api-client": "file:",
     "styled-components": "^5.3.5",
     "ts-loader": "^9.4.2",
     "use-debounce": "^8.0.2",
